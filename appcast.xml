@@ -3,6 +3,22 @@
     <channel>
         <title>Cue</title>
         <item>
+            <title>2.9.0</title>
+            <pubDate>Wed, 30 Sep 2026 00:05:27 -0500</pubDate>
+            <sparkle:version>301</sparkle:version>
+            <sparkle:shortVersionString>2.9.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/TungSeven30/cue-releases/releases/download/stable/Cue-2.9.0.dmg" length="5791072" type="application/octet-stream" sparkle:edSignature="bkk+PYyl1H0z57bg6+9QM2VrLHS5cV402yOqrCr0hBnP15p40njwi8DTkRvjR8GFjRaaWOQSiEsphCAqL2/nBg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/TungSeven30/cue-releases/releases/download/stable/Cue301-272.delta" sparkle:deltaFrom="272" length="1249262" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="SnfPJ7hG5eI+HLDIbfnwbTnUYnca4Q7a/QEh7eVS8oP6SIYEvFBQRQT8mB7JvHYE9G7f4uOgXFpn4ElQpMG4CA=="/>
+                <enclosure url="https://github.com/TungSeven30/cue-releases/releases/download/stable/Cue301-269.delta" sparkle:deltaFrom="269" length="1629534" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ytstXFatx1/F1ibHL5LEBlkhXaNaqk8ZKKO2VXQkbPDtk26Pon58pa6YhDyzCHHFLS6cfTmNgx9t8rN6skDVBA=="/>
+                <enclosure url="https://github.com/TungSeven30/cue-releases/releases/download/stable/Cue301-251.delta" sparkle:deltaFrom="251" length="1680062" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Djw4TvWwVC3gzynfDbYQFEzqzzXeukfd8IWgUos8453UUyGb8icYo1wOJT3fuMmLniyV6MZ1rGQ418lqXbq5Cw=="/>
+                <enclosure url="https://github.com/TungSeven30/cue-releases/releases/download/stable/Cue301-232.delta" sparkle:deltaFrom="232" length="1745898" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="4C83pfBtffxVgfbZJlv92fCO6jx84YJb+fXczr75sxtyUit//ed7uMiAeMoYXO7BkbT5bWen52KDvgdty7gvCw=="/>
+                <enclosure url="https://github.com/TungSeven30/cue-releases/releases/download/stable/Cue301-221.delta" sparkle:deltaFrom="221" length="1816986" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="m1IbJ1Mp75h1U69uWgexg3EmZgEzQTQxIJ+pBopB6fvMTF8ItalbGViD5gf3ynSRkU0rPtCvCATJboXH1KOvAw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>2.8.0</title>
             <pubDate>Sat, 26 Sep 2026 19:16:34 -0500</pubDate>
             <sparkle:version>272</sparkle:version>
@@ -32,22 +48,6 @@
                 <enclosure url="https://github.com/TungSeven30/cue-releases/releases/download/stable/Cue269-221.delta" sparkle:deltaFrom="221" length="968710" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="8Tygkjdvbtc4p43AXanL6A1GpFdqiEQoz0M5zPxxSGAv+CI7NGhlW1mHoSO/eagMrdlBsdwR2RIZkqd+2N27Cw=="/>
                 <enclosure url="https://github.com/TungSeven30/cue-releases/releases/download/stable/Cue269-190.delta" sparkle:deltaFrom="190" length="1115002" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="2m49+b5dOMSo20wQBmsReUhUp/G1YrpsZWuE7AEvDqoENt3XTCDYG6PbYBJDdyvQeuwlEgTy+iZl5Mqc55INAQ=="/>
                 <enclosure url="https://github.com/TungSeven30/cue-releases/releases/download/stable/Cue269-180.delta" sparkle:deltaFrom="180" length="1159950" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="CLaYeOULyhnNMr42K5pcHsym+K7bFVpDJb7vNjvpS/G2hMUzDSz9HT3t4fqicFOEDqF1DW73jwxEFAG5cQfqCw=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>2.6.0</title>
-            <pubDate>Thu, 03 Sep 2026 22:07:04 -0500</pubDate>
-            <sparkle:version>251</sparkle:version>
-            <sparkle:shortVersionString>2.6.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/TungSeven30/cue-releases/releases/download/stable/Cue-2.6.0.dmg" length="5104955" type="application/octet-stream" sparkle:edSignature="znAJa6eOAC64+EabeikyFfmMyMlJxyk0cFgZWZ4jngZqW+zvwFWywfUfo7A+tq/vct2GLc+RM2gyJCD1q6K/Ag=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/TungSeven30/cue-releases/releases/download/stable/Cue251-232.delta" sparkle:deltaFrom="232" length="593274" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="9b6Ilw3ApAwGjMvbHBMNh+AMorEEHNCCbCssu2zNYdEoO/dUtkkWVX+BPN3e+MT5LHh0UML1/PPw8WfE6g0yCA=="/>
-                <enclosure url="https://github.com/TungSeven30/cue-releases/releases/download/stable/Cue251-221.delta" sparkle:deltaFrom="221" length="878482" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="EBeHZfWv76MFsn824Wr6UmleQO3Jb6/J2fuiUgYiXvqhxtabY+hy00TxcxASwqf+2A4VO/V86ixEkdxhYaKrAw=="/>
-                <enclosure url="https://github.com/TungSeven30/cue-releases/releases/download/stable/Cue251-190.delta" sparkle:deltaFrom="190" length="1046298" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="FPqgjjDa2uNdLOxna3OHj3wFoHsjpElkkT39T0co5aEgcWw53QXER5yWIh5wVaSQG6RAU1EHKGMM53YjZ2GhCw=="/>
-                <enclosure url="https://github.com/TungSeven30/cue-releases/releases/download/stable/Cue251-180.delta" sparkle:deltaFrom="180" length="1093538" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="vNQQ9+kHe1uAAWhIe8pRX2e8ZS1p0GMuQKaQ3z/fBje3OfH9WAfjbgzTev3/VJ95zkPPU/zz3rzwu/UiXXzWDw=="/>
-                <enclosure url="https://github.com/TungSeven30/cue-releases/releases/download/stable/Cue251-178.delta" sparkle:deltaFrom="178" length="1152502" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="NnnHZlR/Uwn4BlgxIDAuPp2obFfk5iK1TB0kyGex2Psd1Zsi5VbBAsBCeLrMuQ9x/MLEubg6NL0sEii/3YvJAg=="/>
             </sparkle:deltas>
         </item>
     </channel>
